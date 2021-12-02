@@ -24,3 +24,6 @@ rich menu 參考 --> https://engineering.linecorp.com/zh-hant/blog/rich-menu-ali
 
 
 https://api.line.me/v2/bot/richmenu
+
+
+https://api-data.line.me/v2/bot/richmenu/{{rich menu id}}/content
