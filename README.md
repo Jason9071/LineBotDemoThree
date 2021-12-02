@@ -20,3 +20,7 @@ Line Bot Designer --> https://developers.line.biz/en/services/bot-designer/
 Postman --> https://www.postman.com/
 
 rich menu 參考 --> https://engineering.linecorp.com/zh-hant/blog/rich-menu-alias-switch-action/
+
+
+
+https://api.line.me/v2/bot/richmenu
