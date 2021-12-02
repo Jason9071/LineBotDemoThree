@@ -1,9 +1,9 @@
 var linebot = require('linebot');
  
 var bot = linebot({
-  channelId: "1656665327",
-  channelSecret: "a85f6351d9e3dfdea56d39df5e044857",
-  channelAccessToken: "YRCjxgb6p/YkCWbXAOOQZgcooj0ktWRmSquS+LKekKNfT7n66GFoCcYJpwYd6HsfXp1WADa71/oLEfZF9AArReizmaMB3AJFaFsHJzrlZ1y5DruDnLEnxte+d2i1OyLVSN/GNghf6wBMQHZHZgACggdB04t89/1O/w1cDnyilFU="
+  channelId: "",
+  channelSecret: "",
+  channelAccessToken: ""
 });
 
 
