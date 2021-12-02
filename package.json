@@ -1,0 +1,22 @@
+{
+  "name": "linebotdemothree",
+  "version": "1.0.0",
+  "description": "新新日第三堂範例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason9071/LineBotDemoThree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason9071/LineBotDemoThree/issues"
+  },
+  "homepage": "https://github.com/Jason9071/LineBotDemoThree#readme",
+  "dependencies": {
+    "linebot": "^1.6.1"
+  }
+}
