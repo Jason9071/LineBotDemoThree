@@ -30,3 +30,6 @@ https://api-data.line.me/v2/bot/richmenu/{{rich menu id}}/content
 
 
 https://api.line.me/v2/bot/user/all/richmenu/{{rich menu id}}
+
+
+https://api.line.me/v2/bot/richmenu/{{rich menu id}}
